@@ -1,3 +1,1 @@
-# partial-page-transition
-
-Experiment doing partial page transition
+# Partial page transitions
